@@ -13,6 +13,6 @@ I'm a Software Engineering student at VKU, passionate about building impactful w
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Phongha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Phongha&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Phongha&icon=9&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
