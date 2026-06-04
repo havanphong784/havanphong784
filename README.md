@@ -11,7 +11,11 @@ I'm a Software Engineering student at VKU, passionate about building impactful w
 ![](https://github-readme-stats.shion.dev/api?username=Phongha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Phongha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Phongha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/havanphong784"><img src="https://github-readme-streak-stats.herokuapp.com/?user=havanphong784&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 ---
 [![](https://komarev.com/ghpvc/?username=Phongha&icon=9&color=3)](https://visitcount.itsvg.in)
 
