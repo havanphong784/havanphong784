@@ -62,34 +62,6 @@
       "instanceId": "widget_1788363130265_7"
     },
     {
-      "instanceId": "widget_1788363200273",
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
-      "position": {
-        "x": 0,
-        "y": 906
-      },
-      "size": {
-        "width": 800,
-        "height": 240
-      },
-      "config": {
-        "accentColor": "#ffa657",
-        "paletteIndex": 0,
-        "palette": [
-          "#161b22",
-          "#0e4429",
-          "#006d32",
-          "#26a641",
-          "#39d353",
-          "#69f0a0"
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
       "instanceId": "widget_1788363416135",
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
@@ -160,6 +132,23 @@
       "locked": false,
       "visible": true,
       "zIndex": 10
+    },
+    {
+      "instanceId": "widget_87a3032d-2a53-42da-994d-e6d1b89b2105",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 898
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
@@ -174,5 +163,9 @@
     "templateStyle": "native_advanced"
   },
   "templateId": "native_advanced",
-  "profileSlug": "default"
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1793729630612_dpssa",
+    "updatedAt": "2026-11-03T18:13:55.564Z"
+  }
 }
